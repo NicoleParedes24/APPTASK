@@ -107,28 +107,15 @@ data/tasks.json
 No se utiliza base de datos, todo se guarda localmente en formato JSON.
 
 ---
-
-## 🛠️ Futuras mejoras
-
-- Filtros por estado y prioridad
-- Búsqueda de tareas
-- Ordenamiento automático
-- Mejora de UI en consola
-- Migración a base de datos
-- Interfaz gráfica (GUI)
-
 ---
 
 ## 👨‍💻 Autor
 
 Proyecto desarrollado en Python para práctica de:
-- Arquitectura de software
+- Inteligencia Artificial
 - CLI applications
 - Manejo de archivos JSON
 - Separación de capas
 
 ---
 
-## 📄 Licencia
-
-Uso libre para fines educativos.
