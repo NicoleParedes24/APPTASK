@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "PRUEBA",
+        "description": "Prueba de estocasticos tema regresion",
+        "priority": "alta",
+        "status": "en progreso",
+        "due_date": "2026-07-10",
+        "notes": "",
+        "created_at": null
+    }
+]
